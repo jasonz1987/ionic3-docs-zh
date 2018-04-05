@@ -1,0 +1,10 @@
+## 安装ionic
+
+ionic应用主要是使用ionic命令行（简称CLI）创建和开发，并最终通过\`Cordova\`编译/部署成为原生APP。因此在开发前我们需要安装一些组件。
+
+
+
+### 安装Node和NPM
+
+CLI中的大部分组件都是依赖于Node并且通过NPM进行管理的。安装Node和Npm最简便的方法是使用[NodeJS installer](https://nodejs.org/)。为了确保能够安装到Node的LTS版本，在安装前请关闭你打开的所有终端或者命令行，然后运行安装包，并且启动一个新的终端。你可以使用`npm --version`和`node --version`
+

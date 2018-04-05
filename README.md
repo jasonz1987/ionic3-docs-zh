@@ -1,8 +1,6 @@
 # ionic中文文档
 
-ionic中文文档主要是对[ionic官方文档](https://ionicframework.com/docs/)的中文翻译。
-
-最新版本为3.9.4.
+ionic中文文档主要是对[ionic官方文档](https://ionicframework.com/docs/)的中文翻译，最新版本为3.9.4.
 
 
 
@@ -19,8 +17,6 @@ ionic中文文档主要是对[ionic官方文档](https://ionicframework.com/docs
 鉴于个人能力有限，如果出现语义上的错误欢迎批评指正。
 
 希望能借此为推动ionic在国内的发展贡献一点绵薄之力。
-
-
 
 本文档原则上可以自由转载，但请保留出处。
 
