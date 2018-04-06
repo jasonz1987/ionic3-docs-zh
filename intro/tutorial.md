@@ -20,17 +20,11 @@ $ ionic start MyIonicProject tutorial
 
 除了tutorial模板外，Ionic也提供了这些官方模板
 
-
-
-* `tabs`: a simple 3 tab layout
-* `sidemenu`
-  : a layout with a swipable menu on the side
-* `blank`
-  : a bare starter with a single page
-* `super`
-  : starter project with over 14 ready to use page designs
-* `tutorial`
-  : a guided starter project
+* `tabs`: 一个简单的3tab模板
+* `sidemenu`: 一个带有侧边滑动菜单的布局
+* `blank`: 一个单页的空白启动项目
+* `super`: 超过14可用的页面设计的启动项目
+* `tutorial`: 一个向导的启动项目
 
 ![](/assets/tutorial-screen.png)
 
