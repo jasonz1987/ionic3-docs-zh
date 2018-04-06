@@ -1,3 +1,20 @@
-# My Awesome Book
+# ionic中文文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+ionic中文文档主要是对[ionic官方文档](https://ionicframework.com/docs/)的中文翻译。
+
+最新
+
+
+
+
+
+鉴于个人能力有限，如果出现语义上的错误欢迎批评指正。
+
+
+
+如果你
+
+
+
