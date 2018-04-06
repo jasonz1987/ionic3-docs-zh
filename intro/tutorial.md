@@ -30,21 +30,13 @@ $ ionic start MyIonicProject tutorial
 
 ### 在浏览器里浏览App
 
-现在你可以使用cd命令进入你创建的目录。为了可以在浏览器中得到快速的预览，你可以使用serve命令
-
-
+现在你可以使用`cd`命令进入你创建的目录。为了可以在浏览器中得到快速的预览，你可以使用`serve`命令
 
 `$ cd MyIonicProject/`
 
 `$ ionic serve`
 
-
-
 ![](/assets/tutorial-screen.png)
 
-
-
-
-
-在下一节，让我们
+在下一节，让我们分析以下通过`ionic start`命令创建的目录结构
 
